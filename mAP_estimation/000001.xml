@@ -1,0 +1,52 @@
+<annotation>
+	<folder>mAP test image</folder>
+	<filename>000001.jpg</filename>
+	<source>
+		<database>mAP test image</database>
+		<annotation>PASCAL VOC style</annotation>
+		<image>flickr</image>
+		<flickrid>65163277</flickrid>
+	</source>
+	<size>
+		<width>379</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Frontal</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>19</ymin>
+			<xmax>90</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Frontal</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>23</ymin>
+			<xmax>257</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Frontal</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>106</ymin>
+			<xmax>166</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
